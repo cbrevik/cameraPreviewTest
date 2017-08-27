@@ -3230,9 +3230,9 @@ react-devtools-core@2.3.1:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-"react-native-camera@git+https://git@github.com/cbrevik/react-native-camera.git#da9e2f008d929d2f8e17ae2082240530416d26aa":
+"react-native-camera@git+https://git@github.com/cbrevik/react-native-camera.git#1bcf8577a4b69428240d0491a604f60167bd5572", "react-native-camera@git+https://git@github.com/cbrevik/react-native-camera.git#start-stop-preview":
   version "0.10.0"
-  resolved "git+https://git@github.com/cbrevik/react-native-camera.git#da9e2f008d929d2f8e17ae2082240530416d26aa"
+  resolved "git+https://git@github.com/cbrevik/react-native-camera.git#1bcf8577a4b69428240d0491a604f60167bd5572"
   dependencies:
     prop-types "^15.5.10"
 
